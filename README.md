@@ -1,6 +1,6 @@
 ## Sample docker task
 
-The aim is to setup a simple nodejs server containerized with docker and running on nginx as a reverse proxy
+# The aim is to setup a simple nodejs server containerized with docker and running on nginx as a reverse proxy
 
 To build the node server:
 docker build -t <server name> .
